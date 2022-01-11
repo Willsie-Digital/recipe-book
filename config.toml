@@ -1,8 +1,8 @@
 baseURL = "https://recipesbook.netlify.com/"
 languageCode = "en-us"
-title = "Jason's Recipe Book"
+title = "Willsie Family Recipe Book"
 theme = "recipes"
 
 [params]
-  author = "Jason Rametta"
-  description = "Jason's Recipe Book"
+  author = "Willsie Digital"
+  description = "The Willsie Family Recipe Book that is free and open to the public"
